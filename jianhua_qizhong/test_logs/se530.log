@@ -1,0 +1,133 @@
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第1次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 1.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第2次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 1.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第3次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 1.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第4次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 3.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第5次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 0.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第6次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 1.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第7次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 1.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第8次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 0.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第9次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 0.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第10次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 1.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第11次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 3.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:31 - 第12次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt失败:
+java.lang.RuntimeException: Unfortunately you are not allowed to do this right now with code 0.
+	at edu.olivet.se530.aop.AutoRepeatTest.execute(AutoRepeatTest.java:20) [test-classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.justDoIt(AutoRepeatTest.java:26) [test-classes/:na]
+	at edu.olivet.se530.aop.RepeatInterceptor.invoke(RepeatInterceptor.java:26) ~[classes/:na]
+	at edu.olivet.se530.aop.AutoRepeatTest.main(AutoRepeatTest.java:46) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_77]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:na]
+2016-06-12 20:28:43 [main] ERROR edu.olivet.se530.aop.RepeatInterceptor:34 - 重复12次执行AutoRepeatTest$$EnhancerByGuice$$4e934a05.justDoIt仍告失败
